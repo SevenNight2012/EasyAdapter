@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">easy-adapter</string>
+    <string name="controller_is_null">Controller is null</string>
+</resources>
